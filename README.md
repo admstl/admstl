@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmdoaGVqbWoxNHZteW1pMnNpOHN6dmRqa3Boa3FoaXl0azEzdGdjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9zExs2Q2h1EHfE4P6G/giphy.gif" height="180" />
 
@@ -21,8 +22,10 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=admstl&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=admstl&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
+  <h3>Ma Stack Technique</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,linux,git,vscode,figma&perline=10" />
+  </a>
 </div>
 
 ---
@@ -39,3 +42,14 @@
   <br/>
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+---
+
+<div align="center">
+
+  <h3>👀 Visiteurs</h3>
+  <img src="https://komarev.com/ghpvc/?username=admstl&label=VUES&color=0e75b6&style=for-the-badge" alt="compteur" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
