@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmdoaGVqbWoxNHZteW1pMnNpOHN6dmRqa3Boa3FoaXl0azEzdGdjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9zExs2Q2h1EHfE4P6G/giphy.gif"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmdoaGVqbWoxNHZteW1pMnNpOHN6dmRqa3Boa3FoaXl0azEzdGdjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9zExs2Q2h1EHfE4P6G/giphy.gif" height="180" />
 
   <h1>
     <a href="https://git.io/typing-svg">
