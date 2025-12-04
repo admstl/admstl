@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-
   <h1>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Salut+!+Bienvenue+sur+mon+profil;Je+suis+développeur+Passionné;J'aime+le+Code+et+le+Design" alt="Typing SVG" />
